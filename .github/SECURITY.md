@@ -18,6 +18,6 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
-Generally you'll use GitHub Security Advisories feature for reporting less-sensitive vulnerabilities.
+To report vulnerabilities, DM Ransomware2#1600 on Discord. Avoid sending it on issues. Avoid sending private data, apart from debug information. You'll get an update as soon as I can. If your vulnerability was declined, it's generally because I already know about it.
 
-To report sensitive vulnerabilities, DM Ransomware2#1600 on Discord. Avoid sending it on issues. Avoid sending private data, apart from debug information. You'll get an update as soon as I can. If your vulnerability was declined, it's generally because I already know about it.
+When I fix it, a security advisory will be published.
