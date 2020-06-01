@@ -9,7 +9,6 @@
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-(this table is fake as I just started development :P)
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
